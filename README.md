@@ -4,4 +4,4 @@ An interactive AI game that classifies debris as recyclable, compostable, or tra
 
 The classification runs through two machine learning models: one was created using Microsoft Azure’s CustomVision API and the other was created from scratch using Keras, TensorFlow, and Core ML. The game is deployed on iOS platforms and created using Swift and XCode. 
 
-**Awarded First Place Hack and finalist at Microsoft San Francisco Girls in AI hackathon. 
+**Awarded First Place Hack and finalist at Microsoft San Francisco Girls in AI hackathon.**
